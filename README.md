@@ -13,6 +13,7 @@
 - 📫 How to reach me **maheshsolanke1122@gmail.com**
 
 - 📄 Know about my experiences [https://smahesh05.github.io/ResumeWebsite/](https://smahesh05.github.io/ResumeWebsite/)
+- 🤝  I'm open to collaborating on interesting projects as a MERN developer
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
