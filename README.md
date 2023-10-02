@@ -8,7 +8,7 @@
 - 🌍 I'm based in Pune, India
 - 🖥️  See my portfolio at Portfolio [https://maheshsolankeportfolio.netlify.app/](https://maheshsolankeportfolio.netlify.app/)
 - 💬 Ask me about **react.js, node.js**
-- 📫 How to reach me **maheshsolanke1122@gmail.com**
+- 📫 How to reach me **maheshsolanke84@gmail.com**
 - 🤝 I'm open to collaborating on interesting projects as a MERN developer
 
 <h4 align="left">Connect with me:</h4>
